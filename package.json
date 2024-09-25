@@ -1,6 +1,6 @@
 {
   "name": "layerleap",
-  "version": "0.1.0",
+  "version": "0.2.0-beta.0",
   "description": "LayerLeap is a powerful TypeScript-based command-line tool that simplifies the process of batch converting Photoshop (PSD) files to GIMP&#x27;s native XCF format. Unlike other conversion tools, LayerLeap ensures that the layer structure of your PSD files is preserved, preventing flattening during the conversion process.",
   "serialNumber": "PACKSHIP-0d5e1e284918ea2a44bcb4570bb871b5bd148faa51cb34a9d9c7550bc146a6b5",
   "email": "hatemthedev@gmail.com",
